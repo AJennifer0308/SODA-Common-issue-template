@@ -1,0 +1,1 @@
+# SODA-Common-issue-template
